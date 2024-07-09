@@ -1,6 +1,8 @@
 
-<h1 align="left">Hi 👋, This is Mihee Kong. a Data Analyst who discovers value.</h1>
-<h3 align="left">I am working with the mission of change the world.</h3>
+<h1 align="left"> Hi 👋, This is Mihee Kong(May).</h1>
+<h2 align="left">  A Data Analyst who discovers value.</h2>
+<h3 align="left">  When I discover insights and solve problems from my perspective on the world, </h3>
+<h3 align="left">  I feel joy that cannot be expressed in words.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heeeee-github&label=Profile%20views&color=0e75b6&style=flat" alt="heeeee-github" /> </p>
 
